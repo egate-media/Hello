@@ -1,0 +1,8 @@
+{
+    "name": "egatemedia/Hello",
+    "description": "Say Hello",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
