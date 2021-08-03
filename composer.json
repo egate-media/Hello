@@ -1,5 +1,5 @@
 {
-    "name": "egatemedia/Hello",
+    "name": "egatemedia/hello",
     "description": "Say Hello",
     "require": {
         "php": ">=7.4",
